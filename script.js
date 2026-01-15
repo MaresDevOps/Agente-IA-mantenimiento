@@ -1,5 +1,5 @@
   
-    const N8N_URL = "https://maresdev.app.n8n.cloud/webhook/chat-mantenimiento"; 
+    const N8N_URL = "https://maresdev.app.n8n.cloud/webhook-test/chat-mantenimiento"; 
 
   async function enviarMensaje() {
         const input = document.getElementById('userInput');
